@@ -35,9 +35,6 @@ class AboutActivity : BottomSheetActivity(), Injectable {
         aboutWebsiteInfoTextView.setClickableTextWithoutUnderlines(R.string.about_project_site)
         aboutBugsFeaturesInfoTextView.setClickableTextWithoutUnderlines(R.string.about_bug_feature_request_site)
 
-        tuskyProfileButton.setOnClickListener {
-            onAccountButtonClick()
-        }
 
         aboutLicensesButton.setOnClickListener {
             startActivityWithSlideInAnimation(Intent(this, LicenseActivity::class.java))

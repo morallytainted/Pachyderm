@@ -1,0 +1,8 @@
+<bitmap xmlns:android="http://schemas.android.com/apk/res/android"
+    android:src="@drawable/friend"
+
+
+    android:width="102dp"
+    android:height="102dp"
+    android:viewportWidth="520"
+    android:viewportHeight="580"/>

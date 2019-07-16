@@ -3,7 +3,8 @@
     <background android:drawable="@drawable/ic_launcher_background"/>
     <foreground>
     <inset
-        android:inset="10%"
-        android:drawable="@drawable/ic_launcher_foreground" />
+        android:inset="18%"
+        android:drawable="@drawable/elephant_wtf"
+ />
     </foreground>
 </adaptive-icon>
