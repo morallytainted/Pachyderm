@@ -19,5 +19,4 @@ Pachyderm a fork of Tusky and like Tusky is a Android client for [Mastodon](http
 
 ### Testing 
 
-# [Download Test Build](https://f-droid.org/repository/browse/?fdid=com.keylesspalace.tusky) 
-Insert CRC Key
+# [Download Test Build](https://github.com/morallytainted/Pachyderm/releases/tag/vP1.7.1-alpha1) 
